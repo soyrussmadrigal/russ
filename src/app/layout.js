@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Russ Madrigal",
-  description: "Sitio web Oficial",
+  description: "Sitio web Oficial de SEO",
 };
 
 export default function RootLayout({ children }) {
